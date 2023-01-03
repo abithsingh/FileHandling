@@ -1,0 +1,22 @@
+[
+    {
+        "image":"products/01.png",
+        "title":"Avast Premium Security ",
+        "description":"(Total Security Antivirus) (1 PC | 1 Year) (Email Delivery in 2 hours- No CD)",
+        "price":"399"
+    },
+    {
+        
+        "image":"products/02.jpeg",
+        "title":"Avast Ultimate PC Suite",
+        "description":"(Total Security Suite w VPN, PC Cleaner & AntiTracker) (1 PC | 1 Year) (Email Delivery in 2 hours- No CD)",
+        "price":"789"
+    },
+    {
+        
+        "image":"products/03.jpeg",
+        "title":"Avast Ultimate Suite Multi-Device",
+        "description":"(Incl. Total Security Antivirus, VPN, Cleaner & AntiTracker) (PC, Mac, Android & iOS) (5 Devices | 3 Years) (Email Delivery in 2 hours- No CD)",
+        "price":"1995"
+    }
+]
